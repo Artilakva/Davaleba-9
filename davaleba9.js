@@ -63,3 +63,6 @@ fullName : function () {
     return this.firstName + " " + this.lastName}
 };
 console.log(student.fullName())
+
+//8. დაბეჭდეთ სტუდენტის სახელი და ასაკი
+console.log("სახელი:"+student.firstName+ " "+"ასაკი:"+student.age) 
